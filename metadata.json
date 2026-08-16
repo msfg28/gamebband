@@ -1,0 +1,6 @@
+{
+  "name": "BANDIT GAME",
+  "description": "Полноценный веб-клиент и личный кабинет для игрового RP-сервера BANDIT GAME с экономикой, инвентарем, транспортом, кланами, бизнесами, работами, прокачкой навыков, Казино Royal 777, админ-панелью и античитом.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
